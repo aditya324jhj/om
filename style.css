@@ -1,0 +1,23 @@
+
+span.a {
+	display: inline-table; 
+	width: 100px;
+	height: 100px;
+	padding: 5px;
+	display: flex;
+	justify-content: space-between;
+	padding-right: 50px;
+}
+#d {
+	height: 800px;
+	width: 550px;
+}
+body {
+	background-color: lightblue;
+}
+
+#aso {
+	
+	padding-left: 1000px;
+}
+
