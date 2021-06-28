@@ -1,23 +1,19 @@
-
-span.a {
-	display: inline-table; 
-	width: 100px;
-	height: 100px;
-	padding: 5px;
-	display: flex;
-	justify-content: space-between;
-	padding-right: 50px;
-}
-#d {
-	height: 800px;
-	width: 550px;
-}
-body {
-	background-color: lightblue;
+body{
+	padding: 50px 50px 50px 50px;
+background-image: url("s.jpg");
 }
 
-#aso {
-	
-	padding-left: 1000px;
-}
+.row {
+	border-radius: 25px 25px 25px 25px;
+border: 2px solid #73AD21;
+width: 80%;
+	background-color:lightcyan;
 
+}
+#as {
+background-image: url("d.jpg");
+width: 500px;
+height: 550px;
+border-radius: 25px 0px 0px 25px;
+
+}
